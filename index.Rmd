@@ -26,7 +26,7 @@ Currently, I am a PhD student in the field of ACL injury prevention in football 
 * Sports performance
 * Injury prevention
 * Sports biomechanics
-* Data analytics
+* Football applied data analytics
 
 ## Projects
 
