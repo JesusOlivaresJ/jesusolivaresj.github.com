@@ -9,22 +9,29 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## About
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+I have received my education in Sport Sciences at the University of Granada, in which I coursed my Bachelors degree and Master course in Research in Physical Activity and Sport Sciences.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Currently, I am a PhD student in the field of ACL injury prevention in football (soccer) and working as a sport scientist at FSI-GD Estoril Praia.
 
-```{r cars}
-summary(cars)
-```
+## Interests
 
-## Including Plots
+* Sports performance
+* Injury prevention
+* Sports biomechanics
+* Data analytics
 
-You can also embed plots, for example:
+## Projects
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+* I am learning programming in R, so my first project in this platform is the creation of this website, which hopefully will allow me to share my personal and professional information with people around the world.
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Profiles 
+
+* [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-olivares-jabalera-413b84159/)
+* ...
+* [GitHub](http://github.com/JesusOlivaresJ)
+
+## Contact
+
+* [jesusyolivares@gmail.com](mailto:jesusyolivares@gmail.com)
