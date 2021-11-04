@@ -2,7 +2,9 @@
 title: "Jesús Olivares' website"
 author: "Jesús Olivares Jabalera"
 date: "4/11/2021"
-output: html_document
+output:
+  html_document:
+    theme: readable
 ---
 
 ```{r setup, include=FALSE}
